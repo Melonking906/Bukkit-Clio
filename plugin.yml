@@ -1,0 +1,9 @@
+name: Clio
+main: me.nonit.clio.Clio
+version: 0.2
+description: Clio Bot
+author: Melonking
+
+permissions:
+   clio.scan.shield:
+      description: Hides you from scans.
